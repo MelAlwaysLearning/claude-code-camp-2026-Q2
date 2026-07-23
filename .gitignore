@@ -4,5 +4,9 @@
 # Environment / secrets
 .env
 .env.local
-~/node_modules
-week0_explore/preview/data/
+
+# Not to be pushed to Github
+node_modules
+
+# macOS junk files
+.DS_Store
